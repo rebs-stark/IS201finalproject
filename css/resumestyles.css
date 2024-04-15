@@ -1,0 +1,60 @@
+.header{
+    background-color: cornflowerblue;
+    height: 100px;
+    line-height: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: whitesmoke;
+}
+
+nav{
+    background-color: lightgray;
+    padding: 15px;
+}
+
+nav a{
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+nav a:hover{
+    background-color: rgb(172, 171, 171);
+}
+
+.quickLinks{
+    background-color: rgb(238, 236, 236);
+    padding: 10px;
+    font-size: small;
+}
+
+.footer{
+    position: fixed;
+    background-color: cornflowerblue;
+    bottom: 0px;
+    height: 20px;
+    line-height: 20px;
+    left: 3px;
+    right: 3px;
+    font-size: 12px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.info{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    text-align: left;
+}

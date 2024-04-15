@@ -1,0 +1,12 @@
+h1{
+    color: white
+}
+
+.note{
+    color: white
+}
+
+h4{
+    font-weight: normal;
+    font-family: var(--bs-body-font-family);
+}
